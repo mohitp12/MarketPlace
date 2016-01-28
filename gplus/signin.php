@@ -43,12 +43,12 @@ use Symfony\Component\HttpFoundation\Response;
 /**
  * Replace this with the client ID you got from the Google APIs console.
  */
-const CLIENT_ID = '186943022341-c23ehsu57cs4ga75g293b8u2oh1v76co.apps.googleusercontent.com';
+const CLIENT_ID = '';
 
 /**
  * Replace this with the client secret you got from the Google APIs console.
  */
-const CLIENT_SECRET = 'F7PnqBFHv3SHVLlAVQndAfkY';
+const CLIENT_SECRET = '';
 
 /**
  * Optionally replace this with your application's name.
